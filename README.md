@@ -20,5 +20,3 @@ My name is **Oleksiy** and I am **trying to make this world slightly better, usi
 
 * In my spare time I am passionate about **solving global problems (climate change, health issues, poverty, crime etc)** with data science solutions and ocasionally write articles about such topics and data ([example 1](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/) and [example 2](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/))
 
-* Fun fact: My first degree was ... **Law** :)
-
