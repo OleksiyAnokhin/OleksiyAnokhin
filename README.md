@@ -12,11 +12,11 @@ My name is **Oleksiy** and I am **trying to make this world slightly better, usi
 
   + **Modeling techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE, SVD), **Time Series Analysis** (ARIMA, SARIMA, ARCH, GARCH), **Deep Learning** (ANN, RNN, CNN, Encoders)
 
-  + **Big Data Platforms:** Hadoop, Hive, PySpark, Spark ML
+  + **Big Data Platforms:** Hadoop, Hive, PySpark, Spark ML, Google Cloud Platform, AWS
 
   + **Deep Learning Libraries:** TensorFlow, Keras, PyTorch
 
-  + **Other:** Docker, Kubernetes, Tableau, GitHub
+  + **Other:** Docker, Kubernetes, Tableau, GitHub, Git, Neo4J, MongoDB 
 
 * In my spare time I am passionate about **solving global problems (climate change, health issues, poverty, crime etc)** with data science solutions and ocasionally write articles about it ([example 1](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/) and [example 2](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/))
 
