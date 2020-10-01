@@ -4,7 +4,7 @@ My name is **Oleksiy** and I am **trying to make this world slightly better, usi
 
 * Before joining UChicago, I worked at the **World Bank Group** in Washington, DC
 
-* I study various aspects of **machine learning** every day. These days I am all about **deep learning**
+* I study various aspects of **machine learning** every day. These days I am all about **deep learning**, resolving **healthcare problems, using image recognition and natural language processing**
 
 * My **growing skill set** includes/will include:
 
@@ -19,10 +19,6 @@ My name is **Oleksiy** and I am **trying to make this world slightly better, usi
   + **Other:** Docker, Kubernetes, Neo4J, MongoDB, Tableau, GitHub, Git
 
 * In my spare time I am passionate about **solving global problems (climate change, health issues, poverty, crime etc)** with data science solutions and ocasionally write articles about such topics and data ([example 1](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/) and [example 2](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/))
-
-* I promote education as an ambassador at **MScA (UChicago)** and **Maxwell School (Syracuse University)**
-
-* In Chicago I work on resolving **healthcare problems, using image recognition and natural language processing**
 
 * Fun fact: My first degree was ... **Law** :)
 
