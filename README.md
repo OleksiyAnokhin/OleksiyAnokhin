@@ -12,15 +12,15 @@ My name is **Oleksiy** and I am **trying to make this world slightly better, usi
 
   + **Modeling techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE, SVD), **Time Series Analysis** (ARIMA, SARIMA, ARCH, GARCH), **Deep Learning** (ANN, RNN, CNN, Encoders)
 
-  + **Big Data Platforms:** Hadoop, Hive, PySpark, Spark ML, Google Cloud Platform, AWS
+  + **Big Data Platforms:** Hadoop, Hive, PySpark, Spark ML, GCP, AWS
 
   + **Deep Learning Libraries:** TensorFlow, Keras, PyTorch
 
-  + **Other:** Docker, Kubernetes, Tableau, GitHub, Git, Neo4J, MongoDB 
+  + **Other:** Docker, Kubernetes, Neo4J, MongoDB, Tableau, GitHub, Git
 
-* In my spare time I am passionate about **solving global problems (climate change, health issues, poverty, crime etc)** with data science solutions and ocasionally write articles about it ([example 1](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/) and [example 2](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/))
+* In my spare time I am passionate about **solving global problems (climate change, health issues, poverty, crime etc)** with data science solutions and ocasionally write articles about such topics and data ([example 1](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/) and [example 2](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/))
 
-* I promote education as ab ambassador at UChicago and **Maxwell School (Syracuse University)**
+* I promote education as an ambassador at UChicago and **Maxwell School (Syracuse University)**
 
 * In Chicago I work on resolving **healthcare problems, using image recognition and natural language processing**
 
