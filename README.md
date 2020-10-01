@@ -20,7 +20,7 @@ My name is **Oleksiy** and I am **trying to make this world slightly better, usi
 
 * In my spare time I am passionate about **solving global problems (climate change, health issues, poverty, crime etc)** with data science solutions and ocasionally write articles about such topics and data ([example 1](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/) and [example 2](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/))
 
-* I promote education as an ambassador **MScA (UChicago)** and **Maxwell School (Syracuse University)**
+* I promote education as an ambassador at **MScA (UChicago)** and **Maxwell School (Syracuse University)**
 
 * In Chicago I work on resolving **healthcare problems, using image recognition and natural language processing**
 
