@@ -1,6 +1,6 @@
-My name is **Oleksiy** and I am **trying to make this world slightly better, using my data science toolkit**
+My name is **Oleksiy**, I am a **data scientist**, who tries to make this world slightly better
 
-* I am a student at the **University of Chicago**. My full professional profile is available on [**LinkedIn**](https://www.linkedin.com/in/oanokhin/)
+* I am a student at the **University of Chicago**. My full professional profile is available on [**LinkedIn**](https://www.linkedin.com/in/oanokhin/) and **this is the best way to contact me**
 
 * Before joining UChicago, I worked at the **World Bank Group** in Washington, DC
 
@@ -19,4 +19,3 @@ My name is **Oleksiy** and I am **trying to make this world slightly better, usi
   + **Other:** Docker, Kubernetes, Neo4J, MongoDB, Tableau, GitHub, Git
 
 * In my spare time I am passionate about **solving global problems (climate change, health issues, poverty, crime etc)** with data science solutions and ocasionally write articles ([example 1](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/) and [example 2](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/))
-
