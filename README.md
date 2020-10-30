@@ -17,5 +17,12 @@ My name is **Oleksiy**, I am a **data scientist**, who tries to make this world 
   + **Deep Learning Libraries:** TensorFlow, Keras, PyTorch
 
   + **Other:** Docker, Kubernetes, Neo4J, MongoDB, Tableau, GitHub, Git
+  
+**Publications:**
 
-* In my spare time I am passionate about **solving global problems (climate change, health issues, poverty, crime etc)** with data science solutions and ocasionally write articles ([example 1](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/) and [example 2](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/))
+S. Heitmann, O. Anokhin: [**Developing an Interactive Dashboard: a Step-by-Step Guideline**](https://drive.google.com/file/d/1VcySMmv1C8SF8c-a19QHrWgCzV8qJECh/view?usp=sharing)
+
+O. Anokhin: [**Where are Ukrainian brains “drained” to, and how?** An analysis of LinkedIn data and a World Bank Group study on labor migration of Ukrainians in 2015-2018](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/)
+
+O. Anokhin, A. Volov: [**Traffic Accidents, Routes, Fines: Big Data in the Transport Section**](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/)
+
