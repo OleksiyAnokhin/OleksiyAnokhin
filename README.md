@@ -20,7 +20,7 @@ My name is **Oleksiy**, I am a **data scientist**, who tries to make this world 
   
 **Publications:**
 
-- S. Heitmann, O. Anokhin: [**Developing an Interactive Dashboard: a Step-by-Step Guideline**](https://drive.google.com/file/d/1VcySMmv1C8SF8c-a19QHrWgCzV8qJECh/view?usp=sharing)
-- O. Anokhin: [**Where are Ukrainian brains “drained” to, and how?** An analysis of LinkedIn data and a World Bank Group study on labor migration of Ukrainians in 2015-2018](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/)
-- O. Anokhin, A. Volov: [**Traffic Accidents, Routes, Fines: Big Data in the Transport Section**](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/)
+- S. Heitmann, O. Anokhin: [**Developing an Interactive Dashboard: a Step-by-Step Guideline**](https://drive.google.com/file/d/1VcySMmv1C8SF8c-a19QHrWgCzV8qJECh/view?usp=sharing) (2018)
+- O. Anokhin: [**Where are Ukrainian brains “drained” to, and how?** An analysis of LinkedIn data and a World Bank Group study on labor migration of Ukrainians in 2015-2018](https://voxukraine.org/en/where-are-ukrainian-brains-drained-to-and-how/) (2019)
+- O. Anokhin, A. Volov: [**Traffic Accidents, Routes, Fines: Big Data in the Transport Section**](https://voxukraine.org/en/traffic-accidents-routes-fines-big-data-in-the-transport-section/) (2020)
 
