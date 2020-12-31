@@ -1,4 +1,4 @@
-My name is **Oleksiy**, I am a **data scientist**, who tries to make this world slightly better
+My name is **Oleksiy (Alex)**, I am a **data scientist**, who tries to make this world slightly better
 
 * I am a student at the **University of Chicago**. My full professional profile is available on [**LinkedIn**](https://www.linkedin.com/in/oanokhin/) and **this is the best way to contact me**
 
