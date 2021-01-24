@@ -10,7 +10,7 @@ My name is **Oleksiy**, I am a **data scientist**, who tries to make this world 
 
   + **Programming Languages:** **Python** (NumPy, pandas, Matplotlib, seaborn, scikit-learn, PyCaret), **R** (tidyverse, tidymodels, leaflet, shiny, RMarkdown), **SQL**
 
-  + **Modeling techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE), **Time Series Analysis** (ARIMA, VAR), **Deep Learning** (ANN, RNN, CNN, Encoders)
+  + **Modeling techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE), **Time Series Analysis** (ARIMA, VAR), **Deep Learning** (ANN, RNN, CNN)
 
   + **Big Data Platforms:** Hadoop, Hive, PySpark, Spark ML, GCP, AWS
 
