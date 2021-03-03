@@ -16,7 +16,7 @@ My name is **Oleksiy**, I am a **data scientist**, who tries to make this world 
 
   + **Deep Learning Libraries and Platforms:** TensorFlow, Keras, PyTorch
 
-  + **Other:** Docker, Kubernetes, Neo4J, MongoDB, Tableau, PowerBi, GitHub
+  + **Other:** Docker, Neo4J, MongoDB, Tableau, PowerBi, GitHub
   
 **Publications:**
 
