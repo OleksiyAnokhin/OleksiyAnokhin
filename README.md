@@ -1,8 +1,8 @@
-My name is **Oleksiy**, I am a **data scientist**, who tries to make this world slightly better. 
+My name is **Oleksiy**, I am a **data scientist** at the World Bank Group, who tries to make this world slightly better. 
 
 * I am a student at the **University of Chicago**. My full professional profile is available on [**LinkedIn**](https://www.linkedin.com/in/oanokhin/) and **this is the best way to contact me**
 
-* Before joining UChicago, I worked at the **World Bank Group** in Washington, DC
+* Before joining UChicago, I also worked at the **World Bank Group** in Washington, DC
 
 * I study various aspects of **machine learning** every day. These days I am all about **deep learning**, resolving **healthcare problems, using image recognition and natural language processing**
 
