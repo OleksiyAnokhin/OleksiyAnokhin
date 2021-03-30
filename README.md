@@ -8,15 +8,15 @@ My name is **Oleksiy**, I am a **data scientist** at the World Bank Group, who t
 
 * My **growing skill set** includes/will include:
 
-  + **Programming Languages:** **Python** (NumPy, pandas, Matplotlib, seaborn, scikit-learn, PyCaret), **R** (tidyverse, tidymodels, leaflet, shiny, RMarkdown), **SQL**
+  + **Programming Languages:** **Python** (NumPy, pandas, Matplotlib, Seaborn, Scikit-Learn, PyCaret), **R** (Tidyverse, Tidymodels, Leaflet, Shiny, RMarkdown), **SQL**
 
-  + **Modeling techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE), **Time Series Analysis** (ARIMA, VAR), **Deep Learning** (ANN, RNN, CNN)
+  + **Modeling techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE), **Time Series Analysis** (ARIMA, VAR), **Deep Learning** (CNN, RNN), **Natural Language Processing** (Sentiment Analysis, Topic Modeling, Name Entity Recognition)
 
-  + **Big Data Tools and Platforms:** Hadoop, Hive, Spark, GCP, AWS
+  + **Big Data Tools and Platforms:** Hadoop, Spark, GCP, AWS, Hive
 
   + **Deep Learning Libraries and Platforms:** TensorFlow, Keras, PyTorch
 
-  + **Other:** Docker, Neo4J, MongoDB, Tableau, PowerBi, GitHub
+  + **Other:** Tableau, PowerBi, GitHub, Docker, Neo4J, MongoDB
   
 **Publications:**
 
