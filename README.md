@@ -16,7 +16,7 @@ My name is **Oleksiy**, I am a **data scientist** at the World Bank Group, who t
 
   + **Deep Learning Libraries and Platforms:** TensorFlow, Keras, PyTorch
 
-  + **Other:** Tableau, PowerBi, GitHub
+  + **Other:** Tableau, PowerBi, GitHub, DataRobot, Dataiku
   
 **Publications:**
 
