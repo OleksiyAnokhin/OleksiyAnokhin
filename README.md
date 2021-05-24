@@ -10,7 +10,7 @@ My name is **Oleksiy**, I am a **data scientist** at the World Bank Group, who t
 
   + **Programming Languages:** **Python** (NumPy, pandas, Matplotlib, Seaborn, Scikit-Learn, PyCaret), **R** (Tidyverse, Tidymodels, Leaflet, Shiny, RMarkdown), **SQL**
 
-  + **Modeling techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE), **Time Series Analysis** (ARIMA, VAR), **Deep Learning** (CNN, RNN), **Natural Language Processing** (Sentiment Analysis, Topic Modeling, Name Entity Recognition)
+  + **Modeling techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE), **Time Series Analysis** (AR/MA, ARIMA, VAR, Prophet, NeuralProphet), **Deep Learning** (ANN, CNN, RNN), **Natural Language Processing** (Sentiment Analysis, Topic Modeling, Name Entity Recognition)
 
   + **Big Data Tools and Platforms:** Hadoop, Spark, GCP, AWS, Hive
 
