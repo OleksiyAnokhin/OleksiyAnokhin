@@ -7,10 +7,12 @@ My name is **Oleksiy**, I am a **data scientist** at the World Bank Group, who t
 * My **constantly growing skill set** includes:
 
   + **Programming Languages:** **Python** (NumPy, pandas, Matplotlib, Seaborn, Scikit-Learn), **R** (Tidyverse, Tidymodels, Leaflet, Shiny, RMarkdown), **SQL**
+  
+  + **Statistical Modeling:** Linear and logistic regressions, generalized linear models
 
-  + **Machine Learning Techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE), **Time Series Analysis** (AR/MA, ARIMA, VAR), **Deep Learning** (ANN, CNN, RNN), **Natural Language Processing** (Sentiment Analysis, Topic Modeling, Name Entity Recognition, BERT)
+  + **Machine Learning Techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE), **Time Series** (AR/MA, ARIMA, VAR), **Deep Learning** (ANN, CNN, RNN), **Natural Language Processing** (Sentiment Analysis, Topic Modeling, Name Entity Recognition, BERT)
 
-  + **Big Data Tools and Platforms:** Hadoop, Spark, GCP, AWS, Hive
+  + **Big Data Tools and Platforms:** Hadoop, Spark, GCP, AWS
 
   + **Deep Learning Libraries and Platforms:** TensorFlow, Keras, PyTorch
   
