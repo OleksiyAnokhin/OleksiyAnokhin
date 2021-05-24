@@ -2,21 +2,23 @@ My name is **Oleksiy**, I am a **data scientist** at the World Bank Group, who t
 
 * I am a student at the **University of Chicago**. My full professional profile is available on [**LinkedIn**](https://www.linkedin.com/in/oanokhin/) and **this is the best way to contact me**
 
-* Before joining UChicago, I also worked at the **World Bank Group** in Washington, DC
+* I study various aspects of **machine learning** every day. These days I am focused on **deep learning**, resolving **healthcare problems, using image recognition**
 
-* I study various aspects of **machine learning** every day. These days I am all about **deep learning**, resolving **healthcare problems, using image recognition and natural language processing**
+* My **constantly growing skill set** includes:
 
-* My **growing skill set** includes/will include:
+  + **Programming Languages:** **Python** (NumPy, pandas, Matplotlib, Seaborn, Scikit-Learn), **R** (Tidyverse, Tidymodels, Leaflet, Shiny, RMarkdown), **SQL**
 
-  + **Programming Languages:** **Python** (NumPy, pandas, Matplotlib, Seaborn, Scikit-Learn, PyCaret), **R** (Tidyverse, Tidymodels, Leaflet, Shiny, RMarkdown), **SQL**
-
-  + **Modeling techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE), **Time Series Analysis** (AR/MA, ARIMA, VAR, Prophet, NeuralProphet), **Deep Learning** (ANN, CNN, RNN), **Natural Language Processing** (Sentiment Analysis, Topic Modeling, Name Entity Recognition)
+  + **Machine Learning Techniques:** **Supervised Learning** (DT, RF, SVM, XGBoost, etc), **Unsupervised Learning** (Hierarchical Clustering, k-means, DBSCAN), **Dimensionality Reduction** (PCA, t-SNE), **Time Series Analysis** (AR/MA, ARIMA, VAR), **Deep Learning** (ANN, CNN, RNN), **Natural Language Processing** (Sentiment Analysis, Topic Modeling, Name Entity Recognition, BERT)
 
   + **Big Data Tools and Platforms:** Hadoop, Spark, GCP, AWS, Hive
 
   + **Deep Learning Libraries and Platforms:** TensorFlow, Keras, PyTorch
+  
+  + **AutoML Tools and Platforms:** PyCaret, Prophet, NeuralProphet. DataRobot, Dataiku
 
-  + **Other:** Tableau, PowerBi, GitHub, DataRobot, Dataiku
+  + **Business Intelligence:** Tableau, PowerBi
+  
+  + **Other:** GitHub
   
 **Publications:**
 
