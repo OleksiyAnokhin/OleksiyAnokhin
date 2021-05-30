@@ -16,7 +16,7 @@ My name is **Oleksiy**, I am a **data scientist** at the World Bank Group, who t
 
   + **Deep Learning:** Keras, TensorFlow, PyTorch
   
-  + **AutoML Tools and Platforms:** PyCaret, Prophet, NeuralProphet. DataRobot, Dataiku
+  + **AutoML Tools and Platforms:** PyCaret, Prophet, NeuralProphet. DataRobot, Dataiku, Neptune
 
   + **Business Intelligence:** Tableau, PowerBi
   
