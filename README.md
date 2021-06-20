@@ -1,8 +1,6 @@
 My name is **Oleksiy**, I am a **data scientist** at the World Bank Group, who tries to make this world slightly better 
 
-* I am a student at the **University of Chicago**. My full professional profile is available on [**LinkedIn**](https://www.linkedin.com/in/oanokhin/) and **this is the best way to contact me**
-
-* I study various aspects of **machine learning** every day. These days I am focused on **deep learning**, resolving **healthcare problems, using image recognition**
+* I am a  **University of Chicago** grad. My full professional profile is available on [**LinkedIn**](https://www.linkedin.com/in/oanokhin/) and **this is the best way to contact me**
 
 * My **constantly growing skill set** includes:
 
